@@ -7,5 +7,3 @@
 * 🌱 Aprendiendo sobre ciberseguridad
 * 💻 Practicando con diferentes herramientas y tecnologías
 * 🛡️ Interesado en hacking ético y análisis de vulnerabilidades
-* 🧪 Experimentando con proyectos y laboratorios
-* 🚀 Con ganas de seguir aprendiendo y mejorando
